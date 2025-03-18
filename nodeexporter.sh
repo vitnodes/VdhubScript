@@ -44,7 +44,7 @@ check_dependencies
 
 # Завантаження логотипа
 log "Завантаження логотипа..."
-curl -s https://raw.githubusercontent.com/vitnodes/VdhubScript/main/logo.sh | bash
+curl -s https://raw.githubusercontent.com/vitnodes/VdhubScript/refs/heads/main/logo.sh | bash
 
 # Отримання останньої версії node_exporter
 log "Отримання останньої версії node_exporter..."
